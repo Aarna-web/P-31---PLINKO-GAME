@@ -1,1 +1,2 @@
-# P-31---PLINKO-GAME
+# C31-Plinko-Game
+https://setucoder.github.io/C31-Plinko-Game/
